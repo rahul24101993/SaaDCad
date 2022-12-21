@@ -1,0 +1,56 @@
+{
+    "Home": [
+        {
+            "Title": "Home",
+            "Description": "This is Home Page",
+            "isLiveLink": "false",
+            "link": "https://cloud-int.swi.siemens.com/zel-x/starlight/?projectId=5d752302-d7a6-416a-8cad-ecd90f745400&itemId=urn%3Asiemens%3Acollabhub%3A%3Ae561c70d151a43479f6399aa499d5256%3Amcad%2FDesignRevision%3Aid%2Fa762ebc0-ee23-4cf7-a55b-fd3751d09dd2&closeRoute=https%3A%2F%2Fcloud-int.swi.siemens.com%2Fzel-x%2Fdetail%3Ftab%3D0%26tabs%3Dcxmnz63dh4GficLaQp9BGm&collabSpaceId=e561c70d151a43479f6399aa499d5256&isTelemetry=true#/part"
+        }
+    ],
+    "SWF": [
+        {
+            "Title": "SWF",
+            "Description": "This is live link for SWF",
+            "isLiveLink": "true",
+            "link": "https://cloud-int.swi.siemens.com/zel-x/starlight/?projectId=5d752302-d7a6-416a-8cad-ecd90f745400&itemId=urn%3Asiemens%3Acollabhub%3A%3Ae561c70d151a43479f6399aa499d5256%3Amcad%2FDesignRevision%3Aid%2Fa762ebc0-ee23-4cf7-a55b-fd3751d09dd2&closeRoute=https%3A%2F%2Fcloud-int.swi.siemens.com%2Fzel-x%2Fdetail%3Ftab%3D0%26tabs%3Dcxmnz63dh4GficLaQp9BGm&collabSpaceId=e561c70d151a43479f6399aa499d5256&isTelemetry=true#/part"
+        }
+    ],
+    "SWF3D": [
+        {
+            "Title": "SWF3D",
+            "Description": "This is live link for SWF3D",
+            "isLiveLink": "true",
+            "link": "https://cloud-int.swi.siemens.com/zel-x/starlight/?projectId=5d752302-d7a6-416a-8cad-ecd90f745400&itemId=urn%3Asiemens%3Acollabhub%3A%3Ae561c70d151a43479f6399aa499d5256%3Amcad%2FDesignRevision%3Aid%2Fa762ebc0-ee23-4cf7-a55b-fd3751d09dd2&closeRoute=https%3A%2F%2Fcloud-int.swi.siemens.com%2Fzel-x%2Fdetail%3Ftab%3D0%26tabs%3Dcxmnz63dh4GficLaQp9BGm&collabSpaceId=e561c70d151a43479f6399aa499d5256&isTelemetry=true#/part"
+        }
+    ],
+    "XShare": [
+        {
+            "Title": "XShare",
+            "Description": "This is live link for XShare",
+            "isLiveLink": "true",
+            "link": "https://cloud-int.swi.siemens.com/zel-x/starlight/?projectId=5d752302-d7a6-416a-8cad-ecd90f745400&itemId=urn%3Asiemens%3Acollabhub%3A%3Ae561c70d151a43479f6399aa499d5256%3Amcad%2FDesignRevision%3Aid%2Fa762ebc0-ee23-4cf7-a55b-fd3751d09dd2&closeRoute=https%3A%2F%2Fcloud-int.swi.siemens.com%2Fzel-x%2Fdetail%3Ftab%3D0%26tabs%3Dcxmnz63dh4GficLaQp9BGm&collabSpaceId=e561c70d151a43479f6399aa499d5256&isTelemetry=true#/part"
+        }
+    ],
+    "LiveLinks": [
+        {
+            "Title": "ZelX",
+            "Description": "This is live link for Zelx",
+            "isLiveLink": "true",
+            "link": "https://cloud-int.swi.siemens.com/zel-x/starlight/?projectId=5d752302-d7a6-416a-8cad-ecd90f745400&itemId=urn%3Asiemens%3Acollabhub%3A%3Ae561c70d151a43479f6399aa499d5256%3Amcad%2FDesignRevision%3Aid%2Fa762ebc0-ee23-4cf7-a55b-fd3751d09dd2&closeRoute=https%3A%2F%2Fcloud-int.swi.siemens.com%2Fzel-x%2Fdetail%3Ftab%3D0%26tabs%3Dcxmnz63dh4GficLaQp9BGm&collabSpaceId=e561c70d151a43479f6399aa499d5256&isTelemetry=true#/part"
+        },
+        {
+            "Title": "MBD",
+            "Description": "This is the live link for MBD",
+            "isLiveLink": "true",
+            "link": "https://mbd-web.mbd-web.pre2.usea1.devops.sws.siemens.com/#/part"
+        }
+    ],
+    "GitLab": [
+        {
+            "Title": "GitLab",
+            "Description": "This is live link for GitLab",
+            "isLiveLink": "true",
+            "link": "https://cloud-int.swi.siemens.com/zel-x/starlight/?projectId=5d752302-d7a6-416a-8cad-ecd90f745400&itemId=urn%3Asiemens%3Acollabhub%3A%3Ae561c70d151a43479f6399aa499d5256%3Amcad%2FDesignRevision%3Aid%2Fa762ebc0-ee23-4cf7-a55b-fd3751d09dd2&closeRoute=https%3A%2F%2Fcloud-int.swi.siemens.com%2Fzel-x%2Fdetail%3Ftab%3D0%26tabs%3Dcxmnz63dh4GficLaQp9BGm&collabSpaceId=e561c70d151a43479f6399aa499d5256&isTelemetry=true#/part"
+        }
+    ]
+}

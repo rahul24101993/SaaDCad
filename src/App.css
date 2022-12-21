@@ -1,0 +1,99 @@
+* {
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+}
+
+.hello {
+    background-color: rgb(15, 16, 16);
+    color: rgb(250, 250, 250);
+    border-style: ridge;
+    font-family: "Bookman";
+
+
+}
+
+.trial {
+    background-color: rgb(246, 245, 246);
+    color: rgb(7, 7, 7);
+
+
+
+}
+
+.container {
+    display: flex;
+}
+
+.spaced-para {
+    margin-bottom: 0.5cm;
+}
+
+main {
+    width: 100%;
+    padding: 20px;
+}
+
+.sidebar {
+    background: rgb(6, 6, 6);
+    height: 100vh;
+    width: 200px;
+    transition: all 0.5s;
+
+
+    border-top-style: none;
+    border-right-style: solid;
+    border-right-width: thick;
+    border-left-style: solid;
+    border-left-width: thick;
+    border-bottom-style: solid;
+    border-bottom-width: thick;
+}
+
+.top_section {
+    display: flex;
+    align-items: center;
+    padding: 20px 15px;
+}
+
+.logo {
+    font-size: 30px;
+}
+
+.bars {
+    display: flex;
+    font-size: 25px;
+    margin-left: 50px;
+}
+
+.link {
+    display: flex;
+    color: #fff;
+    padding: 10px 15px;
+    gap: 15px;
+    transition: all 0.5s;
+}
+
+.link:hover {
+    background: rgb(65, 193, 205);
+    color: #000;
+    transition: all 0.5s;
+}
+
+.active {
+    background: rgb(65, 193, 205);
+    color: #000;
+    border-top-style: solid;
+    border-top-width: thin;
+    border-bottom-style: solid;
+    border-bottom-width: thin;
+
+}
+
+.icon,
+.link_text {
+    font-size: 20px;
+    color: rgb(249, 246, 246);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
