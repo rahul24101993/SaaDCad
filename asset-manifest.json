@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/SaaSCad/static/css/main.4088a94e.css",
+    "main.js": "/SaaSCad/static/js/main.58e4e841.js",
+    "static/js/787.446a2371.chunk.js": "/SaaSCad/static/js/787.446a2371.chunk.js",
+    "index.html": "/SaaSCad/index.html",
+    "main.4088a94e.css.map": "/SaaSCad/static/css/main.4088a94e.css.map",
+    "main.58e4e841.js.map": "/SaaSCad/static/js/main.58e4e841.js.map",
+    "787.446a2371.chunk.js.map": "/SaaSCad/static/js/787.446a2371.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4088a94e.css",
+    "static/js/main.58e4e841.js"
+  ]
+}
